@@ -143,9 +143,9 @@ Bundle "Markdown"
 
 " majecty python
 Bundle "tpope/vim-surround"
-Bundle "pyflakes"
+"Bundle "pyflakes"
 "Bundle "sjl/gundo.vim"
 "Bundle "pydoc"
-Bundle "pep8"
+"Bundle "pep8"
 "Bundle "py.test"
 "Bundle "makegreen"
