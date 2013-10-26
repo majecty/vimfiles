@@ -426,7 +426,7 @@ endif
 ""set tenc=korea
 ""set langmenu=none
 set fenc=utf-8
-set fencs=utf-8,korea
+set fencs=utf-8,korea,latin1
 ""set tenc=utf-8
 ""nmap <LocalLeader>tg  :!ctags -R --lang=c++ *.cpp *.h *.lua <cr>
 nmap <LocalLeader>cs  :!ctags -R --sort=yes --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
